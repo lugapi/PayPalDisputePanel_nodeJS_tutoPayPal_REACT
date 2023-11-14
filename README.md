@@ -12,7 +12,8 @@ Manage and view PayPal disputes with ease using this React application.
 
 ## Introduction
 
-This project is a React application designed to interact with the PayPal API to manage and view customer disputes. It provides a user-friendly interface to browse through disputes, view details, and take necessary actions.
+This project is a React application designed to interact with the [PayPal API](https://developer.paypal.com/docs/api/customer-disputes/v1/) to manage and view customer disputes. It provides a user-friendly interface to browse through disputes, view details, and take necessary actions.
+
 
 ## Features
 
