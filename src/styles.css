@@ -1,0 +1,36 @@
+/* styles.css */
+@keyframes blinkAnimation {
+  0%,
+  100% {
+    opacity: 0.2;
+  }
+
+  50% {
+    opacity: 0.4;
+  }
+}
+
+.fakeDisputeCard {
+  animation: blinkAnimation 2s infinite;
+  /* Répète l'animation indéfiniment */
+}
+
+.disputeReactList .disputeReactItem:hover {
+  opacity: 0.5;
+}
+
+.messageCard.buyer {
+  align-self: end;
+}
+
+.messageCard.buyer .messageContent {
+  background-color: lightcoral;
+}
+
+.messageCard.seller .messageContent {
+  background-color: lightblue;
+}
+
+.isOffer .messageContent {
+  background-color: yellow !important;
+}
