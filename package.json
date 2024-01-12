@@ -16,7 +16,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^4.0.3"
   },
   "browserslist": {
     "production": [

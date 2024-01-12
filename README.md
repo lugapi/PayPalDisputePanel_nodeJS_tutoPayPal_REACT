@@ -31,24 +31,27 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/paypal-dispute-management.git
+   ```
 
 2. Navigate to the project directory:
 
    ```bash
     cd paypal-dispute-management
+   ```
 
 3. Install dependencies:
 
    ```bash
    npm install
-
+   ```
 
 ## Usage
 
 1. Start the development server:
 
    ```bash
-   npm start
+   npm start 
+   ```
 
 2. Open your browser and go to http://localhost:3000 to access the application.
 
@@ -60,3 +63,14 @@ Before running the application, make sure to set up your PayPal API credentials 
    ```bash
     REACT_APP_PAYPAL_CLIENT_ID=your-client-id
     REACT_APP_PAYPAL_CLIENT_SECRET=your-client-secret
+   ```
+
+## Screenshots
+
+- Dispute Panel
+![panel](./screenshots/panel.png)
+
+<br />
+
+- Dispute Details
+![details](./screenshots/details.png)
