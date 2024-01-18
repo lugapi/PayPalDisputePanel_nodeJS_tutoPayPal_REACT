@@ -9,6 +9,7 @@ Manage and view PayPal disputes with ease using this React application.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -30,7 +31,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/paypal-dispute-management.git
+   git clone https://github.com/lugapi/PayPalDisputePanel_nodeJS_tutoPayPal_REACT.git
    ```
 
 2. Navigate to the project directory:
