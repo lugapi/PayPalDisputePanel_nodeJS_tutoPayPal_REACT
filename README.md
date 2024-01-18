@@ -34,13 +34,7 @@ To run this application locally, follow these steps:
    git clone https://github.com/lugapi/PayPalDisputePanel_nodeJS_tutoPayPal_REACT.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-    cd paypal-dispute-management
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    npm install
